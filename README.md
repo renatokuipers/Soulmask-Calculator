@@ -2,10 +2,10 @@
 
 Soulmask Crafting Calculator is a desktop application designed to help players calculate the resources required to craft various items in the Soulmask game. This tool is especially useful for players who want to efficiently manage their resources and plan their crafting activities.
 
-![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/be054cfe-4dae-4700-9a2c-d3e71c30200a)
-![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/fdfc5d1c-2dce-4c6a-a3ad-3262b1ce7c04)
-![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/388e33dc-dc5d-4529-80bd-c786d8ce9634)
-![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/a4b8d046-ff30-4eff-9041-61ce48c26b1a)
+![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/2a9fd096-74a5-4def-96fe-e4a5e234c8c5)
+![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/fb059133-8c26-46aa-b4a7-1f5199b4d4a2)
+![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/1286b485-1832-42a6-b470-b2bec769c961)
+![image](https://github.com/renatokuipers/Soulmask-Crafting-Calculator/assets/57039361/eae1f68f-23fb-4aab-b10d-f9df41ac6f46)
 
 
 ## Features
@@ -46,8 +46,7 @@ Soulmask Crafting Calculator is a desktop application designed to help players c
     - Click the "Calculate" button to view the total resources required.
 
 3. **Add New Recipes:**
-    - Click the "Add Recipe" button to open the add recipe window.
-    - Fill in the recipe details and save the recipe.
+    - Needs to be implemented... sorry!
 
 4. **Toggle Dark Mode:**
     - Use the "View" menu to toggle between light and dark modes.
