@@ -14,7 +14,7 @@ Soulmask Crafting Calculator is a desktop application designed to help players c
 - Filter recipes by classification (e.g., Plants, Minerals, Animals, Weapons, Armor, Tools, etc.).
 - Calculate the total resources required for crafting a specified quantity of an item.
 - View optional extra materials for recipes.
-- Add new recipes to the database.
+- Add new recipes to the database. (Needs to be implemented correctly.. somehow this doesn't work right now....)
 - Toggle between light mode and dark mode.
 
 ## Getting Started
