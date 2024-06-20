@@ -26,7 +26,7 @@ Soulmask Crafting Calculator is a desktop application designed to help players c
 ### Installation
 
 1. **Download the latest release:**
-    - Download `Soulmask-calculator.zip.001` and `Soulmask-calculator.zip.002` from the [releases page](https://github.com/yourusername/soulmask-crafting-calculator/releases).
+    - Download `Soulmask-calculator.zip.001` and `Soulmask-calculator.zip.002`.
     - Download `recipes.json` from the [repository](https://github.com/yourusername/soulmask-crafting-calculator).
 
 2. **Place the files in the same directory.**
