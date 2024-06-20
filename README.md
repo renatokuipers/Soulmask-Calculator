@@ -26,13 +26,15 @@ Soulmask Crafting Calculator is a desktop application designed to help players c
 ### Installation
 
 1. **Download the latest release:**
-    - Download `Soulmask_Crafting_Calculator.exe` from the [releases page](https://github.com/yourusername/soulmask-crafting-calculator/releases).
+    - Download `Soulmask-calculator.zip.001` and `Soulmask-calculator.zip.002` from the [releases page](https://github.com/yourusername/soulmask-crafting-calculator/releases).
     - Download `recipes.json` from the [repository](https://github.com/yourusername/soulmask-crafting-calculator).
 
-2. **Place both files in the same directory.**
+2. **Place the files in the same directory.**
 
-3. **Run the application:**
-    - Double-click `Soulmask_Crafting_Calculator.exe` to start the application.
+3. **Extract the zipfiles with your favorite application (mine is 7-Zip)**
+    - Extract only Soulmask-calculator.zip.001 and the executable should be unzipped, 
+4. **Run the application:**
+    - Double-click `Soulmask-calculator.exe` to start the application.
 
 ### Usage
 
@@ -70,7 +72,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at [your-email@example.com].
+If you have any questions or feedback, feel free to contact me at Discord. Username: renjestoo.
 
 ---
 
